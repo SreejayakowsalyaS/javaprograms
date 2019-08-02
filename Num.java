@@ -7,5 +7,4 @@ for(i=X; i<=Y; i++)
  System.out.println(i);
 }
 }
-
 }
